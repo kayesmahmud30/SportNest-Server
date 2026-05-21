@@ -20,3 +20,13 @@ The server manages all backend operations including authentication, database man
 - 🛡️ Protected Routes
 - 🌐 CORS Configuration
 - ⚡ MongoDB Database Integration
+
+## 🛠️ Technologies Used
+
+- Node.js
+- Express.js
+- MongoDB
+- JWT
+- Cookie Parser
+- CORS
+- dotenv

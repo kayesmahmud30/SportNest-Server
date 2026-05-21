@@ -4,7 +4,7 @@ SportNest Server handles authentication, facility management, booking operations
 
 ## 🚀 Live API
 
-🔗 https://sport-nest-data-server.vercel.app
+🔗 https://sport-nest-data-server.vercel.app/
 
 ## 🎯 Purpose
 
@@ -30,3 +30,10 @@ The server manages all backend operations including authentication, database man
 - Cookie Parser
 - CORS
 - dotenv
+
+## 📦 NPM Packages
+
+```bash
+npm install express mongodb cors dotenv cookie-parser jsonwebtoken
+npm install nodemon
+```

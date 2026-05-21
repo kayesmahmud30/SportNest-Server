@@ -4,7 +4,7 @@ SportNest Server handles authentication, facility management, booking operations
 
 ## 🚀 Live API
 
-🔗 https://sport-nest-data-server.vercel.app/
+🔗 https://sport-nest-data-server.vercel.app
 
 ## 🎯 Purpose
 

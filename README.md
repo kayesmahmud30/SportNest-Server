@@ -53,3 +53,12 @@ CLIENT_URL=your_client_url
 npm install
 npm run dev
 ```
+---
+
+## ⚙️ About This Server
+
+🛠️ **SportNest Server** powers the backend functionality of the platform by handling authentication, facility management, booking operations, and secure database communication.
+
+🔐 Built with **Node.js, Express.js, MongoDB, and JWT Authentication**, the server ensures secure API protection using HTTPOnly cookies and middleware verification. Features like search & filter functionality, protected routes, CRUD operations, and environment variable security make the backend reliable and production-ready.
+
+🚀 Developed following Modern API architecture principles for smooth performance and scalability.
